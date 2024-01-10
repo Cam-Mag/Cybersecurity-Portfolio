@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    
+    text-align:center;
+    background-color: lightgray;
+    color: black;
+}
+
+button {
+
+    background-color:blue;
+    border: none;
+    text-align: center;
+    font-size: 15px;
+    margin: 4px 2px;
+    margin-right: auto; 
+    cursor: pointer;
+    
+}
